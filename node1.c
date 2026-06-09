@@ -4,7 +4,6 @@
 
 #include <LPC21xx.H>
 #include "display.h"
-#include "delay.h"
 #include "can.h"
 
 #define SW1 10        /* Temperature Switch */
