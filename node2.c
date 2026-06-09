@@ -3,7 +3,7 @@
 /* Temperature Node */
 
 #include <LPC21xx.H>
-#include "can_d.h"
+#include "can.h"
 
 #define CS        7
 #define MSTR_BIT  5
